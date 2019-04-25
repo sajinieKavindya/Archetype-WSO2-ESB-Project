@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>wso2ei.vscode.tooling</groupId>
+  <artifactId>wso2ei-tooling</artifactId>
+  <version>1.0</version>
+  <name>Archetype-wso2ei-tooling</name>
+  <description>A maven archetype for a Synapse ESB project</description>
+  <url>http://maven.apache.org</url>
+
+  <developers>
+    <developer>
+      <name>Sajinie Ranasinghe</name>
+      <email>sajinie@wso2.com</email>
+    </developer>
+  </developers>
+
+</project>
+
+
